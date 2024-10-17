@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "169703264569",
+    "firebase_url": "https://online-shop-c61f7-default-rtdb.firebaseio.com",
+    "project_id": "online-shop-c61f7",
+    "storage_bucket": "online-shop-c61f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169703264569:android:86782eceefdffcf9e218e8",
+        "android_client_info": {
+          "package_name": "com.bazar.uz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj9A40I4MucpPDcJGJAg0fY95XDOJYdCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169703264569:android:5b8355aefa13032ee218e8",
+        "android_client_info": {
+          "package_name": "com.bazar.uz.bazar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj9A40I4MucpPDcJGJAg0fY95XDOJYdCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169703264569:android:03f3965a61449137e218e8",
+        "android_client_info": {
+          "package_name": "com.example.bazar_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj9A40I4MucpPDcJGJAg0fY95XDOJYdCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169703264569:android:92667dee609a4894e218e8",
+        "android_client_info": {
+          "package_name": "uz.bazar.online_bazar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj9A40I4MucpPDcJGJAg0fY95XDOJYdCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
