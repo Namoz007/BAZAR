@@ -15,8 +15,12 @@ class OrderSources {
       sound: true,
     );
 
-    String? token = await _firebaseMessaging.getToken();
-    order.notificationToken = token;
+    try{
+      String? token = await _firebaseMessaging.getToken();
+      order.notificationToken = token;
+    }catch(e){
+      print("notification token olinmadi");
+    }
     final response = await _dio.post(
       "/orders.json",
       data: order.toJson(),
